@@ -1,0 +1,11 @@
+OrderID,Model,Color,StorageGB,Price,Quantity,SaleDate,City
+1,iPhone 15,Black,128,79900,1,2026-01-05,Pune
+2,iPhone 15 Pro,Blue,256,134900,1,2026-01-06,Mumbai
+3,iPhone 14,White,128,69900,2,2026-01-07,Pune
+4,iPhone 15 Pro Max,Natural,512,159900,1,2026-01-08,Delhi
+5,iPhone SE,Red,64,49900,3,2026-01-09,Nashik
+6,iPhone 15,Pink,128,79900,2,2026-01-10,Mumbai
+7,iPhone 14,Blue,256,79900,1,2026-01-11,Pune
+8,iPhone 15 Pro,Black,512,149900,1,2026-01-12,Bangalore
+9,iPhone 13,Green,128,59900,2,2026-01-13,Delhi
+10,iPhone 15 Pro Max,Blue,256,144900,1,2026-01-14,Mumbai
